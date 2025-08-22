@@ -5,3 +5,4 @@ docuseal/docuseal/dump.rdb
 traefik/acme.json
 docuseal/docuseal/attachments/
 n8n/.env
+docuseal/docuseal/docuseal.env

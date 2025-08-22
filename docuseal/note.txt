@@ -1,0 +1,2 @@
+https://www.docuseal.com/install
+sudo HOST=your-domain-name.com docker compose up
